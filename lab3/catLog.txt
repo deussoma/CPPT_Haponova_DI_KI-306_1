@@ -1,0 +1,7 @@
+Fluffy says: Meow!
+Fluffy is running.
+Fluffy jumped.
+Fluffy is purring.
+Fluffy is sleeping.
+Fluffy is eating tuna.
+Fluffy is playing with a ball.
